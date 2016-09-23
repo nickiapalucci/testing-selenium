@@ -21,3 +21,15 @@ Run this command from the root of this repository:<br>
 A new browser window will open and close quickly.  Back on the command line you should see:<br>
 `Google`<br>
 `cheese! - Google Search`<br>
+
+## Firefox test
+#### Opens a new firefox browser window and creates a search for "cheese!"
+
+Run this command from the root of this repository:<br>
+`python selenium2ExampleFirefox.py`
+
+A new browser window will open and close quickly.  Back on the command line you should see:<br>
+`Google`<br>
+`cheese! - Google Search`<br>
+
+This will also trigger the creation of or additions to `geckodriver.log`
