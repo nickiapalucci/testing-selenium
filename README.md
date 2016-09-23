@@ -2,9 +2,11 @@
 #### Proof of concept tests of the Selenium WebDriver in as many web drivers as possible
 
 ## Installation
-Will eventually be as standard as<br>
+Requires Python 2.7.5 and pip
+
+Run this command from the root of this repository (and within a virtualenv if you wish)<br>
 `pip install requirements.txt`<br>
-But for now, one can use the additional drivers currently commited in the Drivers directory
+Additional drivers are currently commited in the Drivers directory
 
 You must have an up to date version of each web browser installed in a standard location for each test to work
 
