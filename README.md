@@ -1,5 +1,5 @@
 # testing-selenium
-Proof of concept tests of the Selenium WebDriver in as many web drivers as possible
+#### Proof of concept tests of the Selenium WebDriver in as many web drivers as possible
 
 ## Installation
 Will eventually be as standard as<br>
@@ -13,7 +13,7 @@ All tests can be run from a command line
 These files are based on the examples [here](http://www.seleniumhq.org/docs/03_webdriver.jsp#selenium-webdriver-s-drivers)
 
 ## Chrome test
-Opens a new chrome browser and creates a search for "cheese!"
+#### Opens a new chrome browser and creates a search for "cheese!"
 
 Run this command from the root of this repository:<br>
 `python selenium2ExampleChrome.py`
