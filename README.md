@@ -5,7 +5,7 @@
 Requires Python 2.7.5 and pip
 
 Run this command from the root of this repository (and within a virtualenv if you wish)<br>
-`pip install requirements.txt`<br>
+`pip install -r requirements.txt`<br>
 Additional drivers are currently commited in the Drivers directory
 
 You must have an up to date version of each web browser installed in a standard location for each test to work
