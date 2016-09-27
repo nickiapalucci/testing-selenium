@@ -34,4 +34,4 @@ A new browser window will open and close quickly.  Back on the command line you 
 `Google`<br>
 `cheese! - Google Search`<br>
 
-This will also trigger the creation of or additions to `geckodriver.log`
+This will sometimes trigger the creation of or additions to `geckodriver.log`
